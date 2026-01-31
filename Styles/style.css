@@ -1,8 +1,8 @@
 /* ==================== CSS VARIABLES & RESET ==================== */
 
 :root {
-    --primary-gradient: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%);
-    --secondary-gradient: linear-gradient(135deg, #ec4899 0%, #f43f5e 100%);
+    --primary-gradient: linear-gradient(135deg, #ff7605 0%, #d38a1e 100%);
+    --secondary-gradient: linear-gradient(135deg, #ec7c48 0%, #d6ba1b 100%);
     --text-dark: #1a1a1a;
     --text-light: #4a4a4a;
     --text-lighter: #8a8a8a;
